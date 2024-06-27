@@ -29,35 +29,35 @@ Note: The inclusion of clouds and fog was an extra feature and was not mandatory
 
 ### Project Features and Screenshots
 
-#### Panorama
+### Panorama
 ![Panorama](./project/screenshots/project-t04g05-1a.png)
 ![Panorama](./project/screenshots/project-t04g05-1b.png)
 
-#### Flowers
+### Flowers
 ![Flowers](./project/screenshots/project-t04g05-2a.png)
 ![Flowers](./project/screenshots/project-t04g05-2b.png)
 ![Flowers](./project/screenshots/project-t04g05-2c.png)
 
-#### Rocks
+### Rocks
 ![Rocks](./project/screenshots/project-t04g05-3a.png)
 ![Rocks](./project/screenshots/project-t04g05-3b.png)
 ![Rocks](./project/screenshots/project-t04g05-3c.png)
 
-#### Bee
+### Bee
 ![Bee](./project/screenshots/project-t04g05-4a.png)
 ![Bee](./project/screenshots/project-t04g05-4b.png)
 ![Bee](./project/screenshots/project-t04g05-4c.png)
 
-#### Beehive and Pollen
+### Beehive and Pollen
 ![Beehive and Pollen](./project/screenshots/project-t05g05-5a.png)
 ![Beehive and Pollen](./project/screenshots/project-t05g05-5b.PNG)
 ![Beehive and Pollen](./project/screenshots/project-t05g05-5c.png)
 
-#### Grass
+### Grass
 ![Grass](./project/screenshots/project-t04g05-6a.png)
 ![Grass](./project/screenshots/project-t04g05-6b.png)
 
-#### Clouds/Fog
+### Clouds/Fog
 ![Clouds/Fog](./project/screenshots/project-t04g05-7a.png)
 ![Clouds/Fog](./project/screenshots/project-t04g05-7b.png)
 ![Clouds/Fog](./project/screenshots/project-t04g05-7c.png)
