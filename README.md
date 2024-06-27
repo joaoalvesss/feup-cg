@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Computer Graphics
 
 ## Project Grade
 
